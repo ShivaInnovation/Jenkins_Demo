@@ -1,0 +1,13 @@
+D:\Projects\Jenkins\Demo App\Jenkins_Demo\bin\Debug\netcoreapp3.1\Jenkins_Demo.exe
+D:\Projects\Jenkins\Demo App\Jenkins_Demo\bin\Debug\netcoreapp3.1\Jenkins_Demo.deps.json
+D:\Projects\Jenkins\Demo App\Jenkins_Demo\bin\Debug\netcoreapp3.1\Jenkins_Demo.runtimeconfig.json
+D:\Projects\Jenkins\Demo App\Jenkins_Demo\bin\Debug\netcoreapp3.1\Jenkins_Demo.runtimeconfig.dev.json
+D:\Projects\Jenkins\Demo App\Jenkins_Demo\bin\Debug\netcoreapp3.1\Jenkins_Demo.dll
+D:\Projects\Jenkins\Demo App\Jenkins_Demo\bin\Debug\netcoreapp3.1\Jenkins_Demo.pdb
+D:\Projects\Jenkins\Demo App\Jenkins_Demo\obj\Debug\netcoreapp3.1\Jenkins_Demo.csprojAssemblyReference.cache
+D:\Projects\Jenkins\Demo App\Jenkins_Demo\obj\Debug\netcoreapp3.1\Jenkins_Demo.csproj.CoreCompileInputs.cache
+D:\Projects\Jenkins\Demo App\Jenkins_Demo\obj\Debug\netcoreapp3.1\Jenkins_Demo.AssemblyInfoInputs.cache
+D:\Projects\Jenkins\Demo App\Jenkins_Demo\obj\Debug\netcoreapp3.1\Jenkins_Demo.AssemblyInfo.cs
+D:\Projects\Jenkins\Demo App\Jenkins_Demo\obj\Debug\netcoreapp3.1\Jenkins_Demo.dll
+D:\Projects\Jenkins\Demo App\Jenkins_Demo\obj\Debug\netcoreapp3.1\Jenkins_Demo.pdb
+D:\Projects\Jenkins\Demo App\Jenkins_Demo\obj\Debug\netcoreapp3.1\Jenkins_Demo.genruntimeconfig.cache
